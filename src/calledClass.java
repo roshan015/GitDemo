@@ -11,5 +11,11 @@ public class calledClass {
 		System.out.println("Jira commit 2");
 		
 	}
+	
+	public void username() {
+		
+		System.out.println("I have created a new method called username ");
+		
+	}
 
 }
