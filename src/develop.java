@@ -12,5 +12,12 @@ public class develop {
 		
 		int x =3 +5;
 	}
+	
+	
+	public void subtract() {
+		
+		int y = 6-2;
+		
+	}
 
 }
