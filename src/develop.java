@@ -16,7 +16,7 @@ public class develop {
 	
 	public void subtract() {
 		
-		int y = 6-2;
+		int a = 6-2;
 		
 	}
 
