@@ -8,11 +8,7 @@ public class testOne {
 		calledClass c = new calledClass();
 		
 		c.login();
-		
 
-		System.out.println("JEHH+++");
-
-		
 		
 		
 	}
