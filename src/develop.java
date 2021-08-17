@@ -19,5 +19,11 @@ public class develop {
 		int a = 6-2;
 		
 	}
+	
+	public void divide() {
+		
+		int f = 8/2;
+		
+	}
 
 }
