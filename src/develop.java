@@ -20,9 +20,12 @@ public class develop {
 		
 	}
 	
-	public void divide() {
+
+	
+public void multiply() {
 		
-		int f = 8/2;
+		int c = 6*2;
+
 		
 	}
 
