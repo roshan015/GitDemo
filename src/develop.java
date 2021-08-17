@@ -22,9 +22,9 @@ public class develop {
 	
 
 	
-public void multiply() {
+public void divide() {
 		
-		int c = 6*2;
+		int c = 6/2;
 
 		
 	}
