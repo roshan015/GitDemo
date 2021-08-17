@@ -19,5 +19,12 @@ public class develop {
 		int a = 6-2;
 		
 	}
+	
+	
+public void multiply() {
+		
+		int c = 6*2;
+		
+	}
 
 }
